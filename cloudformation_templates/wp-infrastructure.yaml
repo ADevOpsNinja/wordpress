@@ -40,33 +40,33 @@ Conditions:
 Mappings:
   RegionMap:
     us-east-1:
-      "AMALINUX" : "ami-c481fad3" # AMALINUX SEP 2016
+      "AMALINUX" : "ami-b70554c8" # AMALINUX AUG 2018
     us-east-2:
-      "AMALINUX" : "ami-71ca9114" # AMALINUX SEP 2016
+      "AMALINUX" : "ami-8c122be9" # AMALINUX AUG 2018
     us-west-1:
-      "AMALINUX" : "ami-de347abe" # AMALINUX SEP 2016
+      "AMALINUX" : "ami-e0ba5c83" # AMALINUX AUG 2018
     us-west-2:
-      "AMALINUX" : "ami-b04e92d0" # AMALINUX SEP 2016
+      "AMALINUX" : "ami-a9d09ed1" # AMALINUX AUG 2018
     ca-central-1:
-      "AMALINUX" : "ami-eb20928f" # AMALINUX SEP 2016 v01
+      "AMALINUX" : "ami-0ee86a6a" # AMALINUX AUG 2018
     eu-west-1:
-      "AMALINUX" : "ami-d41d58a7" # AMALINUX SEP 2016
+      "AMALINUX" : "ami-466768ac" # AMALINUX AUG 2018
     eu-central-1:
-      "AMALINUX" : "ami-0044b96f" # AMALINUX SEP 2016
+      "AMALINUX" : "ami-7c4f7097" # AMALINUX AUG 2018
     eu-west-2:
-      "AMALINUX" : "ami-bfe0eadb" # AMALINUX SEP 2016 v01
+      "AMALINUX" : "ami-b8b45ddf" # AMALINUX AUG 2018
     ap-southeast-1:
-      "AMALINUX" : "ami-7243e611" # AMALINUX SEP 2016
+      "AMALINUX" : "ami-05868579" # AMALINUX AUG 2018
     ap-southeast-2:
-      "AMALINUX" : "ami-55d4e436" # AMALINUX SEP 2016
+      "AMALINUX" : "ami-39f8215b" # AMALINUX AUG 2018
     ap-northeast-2:
-      "AMALINUX" : "ami-a04297ce" # AMALINUX SEP 2016
+      "AMALINUX" : "ami-afd86dc1" # AMALINUX AUG 2018
     ap-northeast-1:
-      "AMALINUX" : "ami-1a15c77b" # AMALINUX SEP 2016
+      "AMALINUX" : "ami-e99f4896" # AMALINUX AUG 2018
     ap-south-1:
-      "AMALINUX" : "ami-cacbbea5" # AMALINUX SEP 2016
+      "AMALINUX" : "ami-d783a9b8" # AMALINUX AUG 2018
     sa-east-1:
-      "AMALINUX" : "ami-b777e4db" # AMALINUX SEP 2016
+      "AMALINUX" : "ami-6dca9001" # AMALINUX AUG 2018
   InstanceSize:
     SMALL:
       "EC2" : "t2.micro"
